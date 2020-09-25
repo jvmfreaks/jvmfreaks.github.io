@@ -1,0 +1,5 @@
+theme = "harbor"
+title = "JVM Freaks"
+baseURL = "https://jvmfreaks.com/"
+
+languageCode = "en-us"
